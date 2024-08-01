@@ -1,5 +1,7 @@
 
-# Traffic Sign Recognition
+# TrafficVisionAI
+
+![image](https://github.com/user-attachments/assets/a06bba76-fa23-4f01-a68f-33852ccb394b)
 
 This project implements a real-time driver assistance system using traffic sign recognition, lane detection, and collision detection.
 
