@@ -1,0 +1,3 @@
+CAMERA_INDEX = 0
+LANE_DETECTION_ROI = [0, 720, 1280, 720]
+TRAFFIC_SIGN_MODEL_PATH = "models/traffic_sign_model.h5"
